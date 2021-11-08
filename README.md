@@ -1,6 +1,6 @@
 # Basic-Banking-System
 Sparks Foundation Internship Project : Basic Banking System
-Steps tyo run the peoject: 
+Steps to run the peoject: 
 1) Download the zip file -> Extract it
 2) Install xampp Server
 3) start apache server and mysql
